@@ -48,7 +48,7 @@ namespace Inheritance
                 Color = "Olive green",
                 Legs = 4,
             };
-
+             
             Console.WriteLine($"My {BeardedDragon.Name} is a {BeardedDragon.Age} year old reptile. She has {BeardedDragon.Legs} legs and is a {BeardedDragon.Color} color.");
             Console.WriteLine($"Is she warm blooded? {BeardedDragon.IsWarmBlooded}");
             Console.WriteLine($"Does she have a back bone? {BeardedDragon.HasBackbone}");
