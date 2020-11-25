@@ -12,7 +12,5 @@ namespace Inheritance
         public bool HasFeathers { get; set; }
         public string Sound { get; set; }
         public string Climate { get; set; }
-
-
     }
 }
